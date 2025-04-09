@@ -2,7 +2,7 @@
 
 ## 📚 Sobre o Projeto
 
-Este projeto foi desenvolvido na plataforma **[DIO - Digital Innovation One](https://dio.me)** durante o **Bootcamp Heineken Fullstack Developer**, e tem como objetivo simular a modelagem lógica e implementação de um banco de dados para um cenário de **oficina mecânica**.
+Este projeto foi desenvolvido na plataforma **[DIO - Digital Innovation One](https://dio.me)** durante o **[Heineken - Inteligência Artificial Aplicada a Dados com Copilot](https://web.dio.me/track/coding-the-future-heineken-ia-para-analise-de-dados)**, e tem como objetivo simular a modelagem lógica e implementação de um banco de dados para um cenário de **oficina mecânica**.
 
 Neste desafio, o objetivo foi aplicar os conhecimentos adquiridos sobre modelagem relacional, criação de scripts SQL, inserção e consulta de dados com diferentes níveis de complexidade.
 
